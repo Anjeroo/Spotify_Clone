@@ -59,6 +59,7 @@
 .offer__scroll-container {
     max-height: 43vh;
     overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .offer__scroll-container::-webkit-scrollbar {
