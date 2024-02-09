@@ -1,0 +1,7 @@
+.card-text a {
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: middle;
+    color: inherit;
+    text-decoration: none;
+}
